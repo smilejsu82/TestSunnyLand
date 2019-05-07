@@ -1,2 +1,0 @@
-D:\workspace\unity\2D_Study_01\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-D:\workspace\unity\2D_Study_01\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
